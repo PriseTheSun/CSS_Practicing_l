@@ -14,8 +14,9 @@ Gears: hover
 
 ![Screenshot_5](https://user-images.githubusercontent.com/62224609/132614819-99238126-877e-43d2-9739-53c431fd1598.png)
 
-
 Forza: Hover
+
+![Screenshot_6](https://user-images.githubusercontent.com/62224609/132614954-84fed528-f5d0-4cb6-9e15-3169242adcca.png)
 
 
 
