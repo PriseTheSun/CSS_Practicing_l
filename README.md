@@ -10,8 +10,13 @@ Hallo :hover
 
 ![Screenshot_4](https://user-images.githubusercontent.com/62224609/132614661-73e3d7a3-71f5-472c-87de-7935df28bb04.png)
 
-Gear: hover
+Gears: hover
 
 ![Screenshot_5](https://user-images.githubusercontent.com/62224609/132614819-99238126-877e-43d2-9739-53c431fd1598.png)
+
+
+Forza: Hover
+
+
 
 
